@@ -1,0 +1,6 @@
+[submodule "vpbot-frontend"]
+	path = vpbot-frontend
+	url = https://github.com/RJPinoy/vpbot-frontend
+[submodule "vpbot-backend"]
+	path = vpbot-backend
+	url = https://github.com/RJPinoy/vpbot-backend
